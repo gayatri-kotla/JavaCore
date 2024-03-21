@@ -1,4 +1,4 @@
-package core.io.serialMy;
+package core.io.filewrite;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

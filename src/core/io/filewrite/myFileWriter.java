@@ -1,4 +1,4 @@
-package core.io;
+package core.io.filewrite;
 
 import java.io.*;
 import java.util.Scanner;
